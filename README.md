@@ -12,3 +12,13 @@ This is an end-to-end Data Analysis Project I did in Winter 2025. This project a
 - Docker (to create local MySQL environment)
 - DBeaver (for navigate database)
 - GitHub (for documentation)
+
+2. Second Deliverable: **Python**
+- First cleaning practice: practice on the dataset bank-additional-full.csv (Kaggle) using Python with pandas and numpy library
+- Tasks included:
+  + Initial Inspection (Load the file, check for row counts and missing value counts)
+  + Column name Standardization (Strip white spaces, lower character, replace "." with "_". For example 'day.of.week' will become 'day_of_week')
+  + Handling Encoded Values => Change 'unknown' to NaN
+  + Normalizes data: Navigate critical columns (job, age, contact,...) and strip down white spaces and lowercase values
+  + Validation Check: Check to see numeric columns follow logical constraints, such as age > 0
+  + Summary: Compare dataset after cleaning, focus on missing values
