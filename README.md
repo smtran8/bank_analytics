@@ -22,3 +22,18 @@ This is an end-to-end Data Analysis Project I did in Winter 2025. This project a
   + Normalizes data: Navigate critical columns (job, age, contact,...) and strip down white spaces and lowercase values
   + Validation Check: Check to see numeric columns follow logical constraints, such as age > 0
   + Summary: Compare dataset after cleaning, focus on missing values
+- Second Project: Perform cleaning, EDA analysis and Business Metrics Extraction:
+  1. Cleaning: Same as the first cleaning practice
+  2. EDA Analysis: Apply Seaborn library with different plots for Exploratory Data Analysis, specifically:
+     - Find conversion rate difference by age groups => Bar Plot
+     - Find conversion rate difference by contact frequency => Line Plot
+     - Find conversion rate difference by job => Bar Plot
+     - Find conversion rate difference by call duration => Scatter Plot
+  3. Business Metrics Extraction:
+     - Identify our KPI, in this case conversion rate (The proportion of customers who subscribed to a term deposit after the calls)
+     - Extract this KPI: conversion rate by different categories: age, job, education
+# - Based on our metrics:
+Age Group: The 0-25 age group has the highest conversion rate, with 55+ seconding, suggesting that marketing efforts could be more focused on these 2 demographics.
+Job: Certain professions, such as students and retired individuals, show higher conversion rates. Tailoring campaigns to these groups could be beneficial. This correlates to our age groups as well
+Education: Individuals with higher education levels tend to have better conversion rates. Marketing strategies could be adjusted to target these educational segments more effectively.
+# Overall: Best performance is in: 0-25 age group, students, education level tertiary
