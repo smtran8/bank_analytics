@@ -35,6 +35,9 @@ This is an end-to-end Data Analysis Project I did in Winter 2025. This project a
      
 **Based on our metrics**:
 Age Group: The 0-25 age group has the highest conversion rate, with 55+ seconding, suggesting that marketing efforts could be more focused on these 2 demographics.
-Job: Certain professions, such as students and retired individuals, show higher conversion rates. Tailoring campaigns to these groups could be beneficial. This correlates to our age groups as well
+
+Job: Certain professions, such as students and retired individuals, show higher conversion rates. Tailoring campaigns to these groups could be beneficial. This correlates to our age groups as well.
+
 Education: Individuals with higher education levels tend to have better conversion rates. Marketing strategies could be adjusted to target these educational segments more effectively.
+
 **Overall: Best performance is in: 0-25 age group, students, education level tertiary**
