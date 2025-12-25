@@ -1,5 +1,5 @@
 # Overview
-This is an end-to-end Data Analysis Project I did in Winter 2025. This project analyzes banking transaction data using **MySQL** to uncover transaction trends, customer behavior, and potential fraud signals. The analysis is designed to be a suitable for report and extensible to Power BI and Python (Later Update).
+This is an end-to-end Data Analysis Project I did in Winter 2025. This project analyzes banking transaction data using **MySQL** to uncover transaction trends, customer behavior, and potential fraud signals. The analysis is designed to be a suitable for report and extensible to Python.
 
 # Dataset
 - A Kaggle Dataset for practice with SQL: **Bank Transaction Dataset for Fraud Detection**. Source: https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
